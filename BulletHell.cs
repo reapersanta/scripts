@@ -2,7 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class baseBulletHell : MonoBehaviour
+public class BulletHell : MonoBehaviour
 {
     //TODO shooting profile for ease of use (use scriptable objects for the profiles)
     [SerializeField] private GameObject BulletObject;
