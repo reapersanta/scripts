@@ -1,6 +1,8 @@
 using System;
 using UnityEngine;
 
+
+// this class is for the bullet prefab
 public class BulletBehavior : MonoBehaviour
 {
 // feel free to add some type of Bullet
